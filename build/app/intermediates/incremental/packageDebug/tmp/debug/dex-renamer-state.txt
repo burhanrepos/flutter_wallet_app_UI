@@ -1,0 +1,4 @@
+#Mon Oct 24 12:11:28 PKT 2022
+base.0=/Users/burhanshaheen/Documents/burhan/BR_F/flutter_wallet_app_ui/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
